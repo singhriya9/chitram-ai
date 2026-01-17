@@ -1,6 +1,6 @@
 # Chitram AI
 
-**Chitram AI** is an intelligent image and video optimization tool designed to improve performance without compromising quality.
+**Chitram AI** is an intelligent  image and video optimization tool designed to improve performance without compromising quality.
 
 ## 🚀 What It Does
 - Compress images and videos efficiently
